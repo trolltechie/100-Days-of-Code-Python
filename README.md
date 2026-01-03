@@ -7,4 +7,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 ## Beginner level
 
 - [Day 1](day01): Working with Variables in Python to Manage Data
-- [Day 2](dayo2): Understanding Data Types and How to Manipulate Strings
+- [Day 2](day02): Understanding Data Types and How to Manipulate Strings
+- [Day 3](day03): Control Flow and Logical Operator s
