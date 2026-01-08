@@ -12,4 +12,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 4](day04): Randomisation and Python Lists
 - [Day 5](day05): Python Loops
 - [Day 6](day06): Python Functions and Karel
-- 
+- [Day 7](day07): Hangman
+  
