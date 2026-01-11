@@ -14,3 +14,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 6](day06): Python Functions and Karel
 - [Day 7](day07): Hangman
 - [Day 8](day08): Function Parameters & Caesar Cipher
+- [Day 9](day09): Dictionaries, Nesting and the Secret Auction
+  
