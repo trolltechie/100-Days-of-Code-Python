@@ -16,4 +16,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 8](day08): Function Parameters & Caesar Cipher
 - [Day 9](day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](day10): Functions with Outputs
+- [Day 11](day11): The Blackjack Capstone Project
   
