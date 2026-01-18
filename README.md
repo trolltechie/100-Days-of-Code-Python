@@ -24,3 +24,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 ## Intermediate level
 
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine
+- [Day 16](day16): Object Oriented Programming (OOP)
+  
