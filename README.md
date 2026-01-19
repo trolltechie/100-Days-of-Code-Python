@@ -9,7 +9,7 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 1](day01): Working with Variables in Python to Manage Data
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 3](day03): Control Flow and Logical Operators
-- [Day 4](day04): Randomisation and Python Lists
+- [Day 4](day04): Randomization and Python Lists
 - [Day 5](day05): Python Loops
 - [Day 6](day06): Python Functions and Karel
 - [Day 7](day07): Hangman
@@ -25,4 +25,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine
 - [Day 16](day16): Object Oriented Programming (OOP)
+- [Day 17](day17): The Quiz Project & the Benefits of OOP
   
