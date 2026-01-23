@@ -28,5 +28,6 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 17](day17): The Quiz Project & the Benefits of OOP
 - [Day 18](day18): Turtle & the Graphical User Interface (GUI)
 - [Day 19](day19): Instances, State and Higher Order Functions
-- [Day 20](day20): Building the Snake Game
+- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
   
