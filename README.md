@@ -31,4 +31,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22](day22): Build Pong: The Famous Arcade Game
- 
+- [Day 23](day23): The Turtle Crossing Capstone Project
+  
