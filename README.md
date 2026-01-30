@@ -36,3 +36,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 25](day25): Working with CSV Data and the Pandas Library
 - [Day 26](day26): List Comprehension & the Nato Pilot's Alphabet
 - [Day 27](day27): Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28](day28): Tkinter, DynamicTyping and the Pomodoro GUI Application
+  
