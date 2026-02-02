@@ -39,4 +39,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 28](day28): Tkinter, DynamicTyping and the Pomodoro GUI Application
 - [Day 29](day29): Building a Password ManagerGUI App with Tkinter
 - [Day 30](day30): Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31](day31): Capstone Project - Flash Card App
   
