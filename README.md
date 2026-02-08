@@ -48,4 +48,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 34](day34): API Practice - Creating a GUI Quiz App
 - [Day 35](day35): Keys, Authentication & Environment Variables: Send SMS
 - [Day 36](day36): Stock Trading News Alert Project
-  
+- [Day 37](day37): Habit Tracking Pixel Project
