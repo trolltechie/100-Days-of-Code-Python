@@ -52,3 +52,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 38](day38): Build a Workout Tracking App that Talks to Google Sheets
 - [Day 39](day39): Capstone Part 1: Flight Deal Finder
 - [Day 40](day40): Capstone Part 2: Flight Club!
+- [Day 41](day41): Introduction to HTML
+  
