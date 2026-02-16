@@ -56,3 +56,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 42](day42): Intermediate HTML
 - [Day 43](day43): Introduction to CSS
 - [Day 44](day44): Intermediate CSS
+- [Day 45](day45): Web Scraping with Beautiful Soup
