@@ -57,3 +57,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 43](day43): Introduction to CSS
 - [Day 44](day44): Intermediate CSS
 - [Day 45](day45): Web Scraping with Beautiful Soup
+- [Day 46](day46): Create a Spotify Playlist using the Musical Time Machine
