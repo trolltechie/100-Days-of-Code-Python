@@ -58,3 +58,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 44](day44): Intermediate CSS
 - [Day 45](day45): Web Scraping with Beautiful Soup
 - [Day 46](day46): Create a Spotify Playlist using the Musical Time Machine
+- [Day 47](day47): Create an Automated Amazon Price Tracker
