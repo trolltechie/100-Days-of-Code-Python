@@ -60,3 +60,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 46](day46): Create a Spotify Playlist using the Musical Time Machine
 - [Day 47](day47): Create an Automated Amazon Price Tracker
 - [Day 48](day48): Selenium Webdriver and Game Playing Bot
+- [Day 49](day49): Automating Job Applications on LinkedIn
+  
