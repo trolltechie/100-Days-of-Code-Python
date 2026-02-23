@@ -64,3 +64,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 50](day50): Automated Tinder Swiper
 - [Day 51](day51): Internet Speed Twitter Complaint Bot
 - [Day 52](day52): Instagram Follower Bot
+- [Day 53](day53): Automated Data Entry Job
