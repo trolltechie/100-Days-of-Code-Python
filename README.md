@@ -69,3 +69,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 55](day55): HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56](day56): Rendering HTML/Static Files and Name Card Project
 - [Day 57](day57): Templating with Jinja and Blog Project
+- [Day 58](day58): Boostrap
