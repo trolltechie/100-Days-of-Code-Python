@@ -76,3 +76,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 59](day59): Upgraded Blog with Bootstrap
 - [Day 60](day60): HTML Forms with Flask
 - [Day 61](day61): Building Advanced Forms with WTForms
+- [Day 62](day62): Flask, WTForms, Bootstrap and CSV - Coffee & WiFi Project
