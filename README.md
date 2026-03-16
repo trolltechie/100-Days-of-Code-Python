@@ -85,5 +85,6 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 68](day68): Authentication with Flask
 - [Day 69](day69): Blog Capstone Project Part 4 - Adding Users
 - [Day 70](day70): Deploying Your Web Application with Heroku
-- [Day 71](day71): Data Exploration with Pandas: Analyse the LEGO Dataset
-- [Day 72](day72): Data Visualisation with Mathplotlib: Programming Languages
+- [Day 71](day71): Data Exploration with Pandas: Analyze the LEGO Dataset
+- [Day 72](day72): Data Visualization with Mathplotlib: Programming Languages
+- [Day 73](day73): Aggregate & Merge Data with Pandas: Analyze the LEGO Dataset
