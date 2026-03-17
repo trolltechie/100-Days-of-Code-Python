@@ -88,3 +88,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 71](day71): Data Exploration with Pandas: Analyze the LEGO Dataset
 - [Day 72](day72): Data Visualization with Mathplotlib: Programming Languages
 - [Day 73](day73): Aggregate & Merge Data with Pandas: Analyze the LEGO Dataset
+- [Day 74](day74): Google Trends Data: Resampling and Visualizing Time Series
