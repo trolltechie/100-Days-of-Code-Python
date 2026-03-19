@@ -90,3 +90,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 73](day73): Aggregate & Merge Data with Pandas: Analyze the LEGO Dataset
 - [Day 74](day74): Google Trends Data: Resampling and Visualizing Time Series
 - [Day 75](day75): Beautiful Plotly Charts & Analyzing  the Android Store
+- [Day 76](day76): Computation with NumPy and N-Dimensional Arrays
