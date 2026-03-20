@@ -91,3 +91,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 74](day74): Google Trends Data: Resampling and Visualizing Time Series
 - [Day 75](day75): Beautiful Plotly Charts & Analyzing  the Android Store
 - [Day 76](day76): Computation with NumPy and N-Dimensional Arrays
+- [Day 77](day77): Linear Regression and Data Visualization with Seaborn
