@@ -93,3 +93,5 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 76](day76): Computation with NumPy and N-Dimensional Arrays
 - [Day 77](day77): Linear Regression and Data Visualization with Seaborn
 - [Day 78](day78): Analyzing the Nobel Prize with Plotly, Mathplotlib & Seaborn
+- [Day 79](day79): The Tragic Discovery of Handwashing: t-Tests & Distribution
+  
