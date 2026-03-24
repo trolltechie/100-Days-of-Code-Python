@@ -95,3 +95,7 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 78](day78): Analyzing the Nobel Prize with Plotly, Mathplotlib & Seaborn
 - [Day 79](day79): The Tragic Discovery of Handwashing: t-Tests & Distribution
 - [Day 80](day80): Capstone Project - Predict House Prices
+
+## Professional
+
+- [Day 81](day81): Portfolio Project - Text to Morse Code Converter
