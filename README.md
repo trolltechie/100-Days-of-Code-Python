@@ -99,3 +99,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 ## Professional
 
 - [Day 81](day81): Portfolio Project - Text to Morse Code Converter
+- [Day 82](day82): Portfolio Project - A website to show off your skills and the things I built
