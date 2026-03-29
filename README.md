@@ -103,3 +103,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 83](day83): Portfolio Project - Build a text-based version of Tic Tac Toe game
 - [Day 84](day84): Portfolio Project - A program where you can upload your images and add a watermark
 - [Day 85](day85): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
+- [Day 86](day86): Portfolio Project - Using Python Turtle, build a clone of the 80's hit game Breakout
