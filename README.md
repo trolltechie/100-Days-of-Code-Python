@@ -104,3 +104,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 84](day84): Portfolio Project - A program where you can upload your images and add a watermark
 - [Day 85](day85): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
 - [Day 86](day86): Portfolio Project - Using Python Turtle, build a clone of the 80's hit game Breakout
+- [Day 87](day87): Portfolio Project - Build a website that lists cafes with wifi and power for remote working
