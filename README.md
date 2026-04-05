@@ -110,3 +110,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 90](day90): Portfolio Project - Convert PDF to Audiobook
 - [Day 91](day91): Portfolio Project - Image Color Palette Generator
 - [Day 92](day92): Portfolio Project - Build a custom web scraper to collect data
+- [Day 93](day93): Portfolio Project - Automate the Google Dinosaur Game
