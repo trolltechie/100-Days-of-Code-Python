@@ -112,3 +112,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 92](day92): Portfolio Project - Build a custom web scraper to collect data
 - [Day 93](day93): Portfolio Project - Automate the Google Dinosaur Game
 - [Day 94](day94): Portfolio Project - Space Invaders
+- [Day 95](day95): Portfolio Project - Build a Custom Website using an API
