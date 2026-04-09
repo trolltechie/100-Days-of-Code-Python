@@ -115,3 +115,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 95](day95): Portfolio Project - Build a Custom Website using an API
 - [Day 96](day96): Portfolio Project - An E-Commerce website with paying processing
 - [Day 97](day97): Portfolio Project - Send a WhatsApp message with Python
+- [Day 98](day98): Portfolio Project - Analyze and Visualize Space Race
