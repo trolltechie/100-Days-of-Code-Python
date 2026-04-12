@@ -117,3 +117,4 @@ I've took the opportunity at the very start of New year to embark on a journey o
 - [Day 97](day97): Portfolio Project - Send a WhatsApp message with Python
 - [Day 98](day98): Portfolio Project - Analyze and Visualize Space Race
 - [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in United States
+- [Day 100](day100): Project Portfolio - Predicting Earnings using Multivariable Regression
